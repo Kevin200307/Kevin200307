@@ -1,5 +1,4 @@
-##           Hi👋,I'm Kevin 
-##              Gaveshana
+##           Hi👋,I'm Kevin Gaveshana
 ## Bsc(hons) Information Technology undergraduate
 
 <!--
